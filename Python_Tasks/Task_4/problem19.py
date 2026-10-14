@@ -1,3 +1,5 @@
+#Problem : Collections.Counter()
+#HackerRank : https://www.hackerrank.com/challenges/collections-counter/problem
 
 from collections import Counter
 
