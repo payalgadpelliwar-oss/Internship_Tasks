@@ -1,3 +1,6 @@
+#Problem : Set .add()
+#HackerRank : https://www.hackerrank.com/challenges/py-set-add/problem
+
 n = int(input())
 stamps = set()
 
