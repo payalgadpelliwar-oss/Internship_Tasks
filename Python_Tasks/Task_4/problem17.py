@@ -1,3 +1,6 @@
+#Problem : Finding the Percentage
+#HackerRank : https://www.hackerrank.com/challenges/finding-the-percentage/problem
+
 n = int(input())
 students = {}
 
