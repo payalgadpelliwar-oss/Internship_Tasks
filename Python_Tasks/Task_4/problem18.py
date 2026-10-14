@@ -1,4 +1,7 @@
-    
+#Problem : Lists
+#HackerRank : https://www.hackerrank.com/challenges/python-lists/problem
+
+
 N = int(input())
 my_list = []
 
