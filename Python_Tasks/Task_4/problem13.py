@@ -1,3 +1,7 @@
+#Problem : Symmetric Difference
+#HackerRank : https://www.hackerrank.com/challenges/symmetric-difference/problem
+
+
 m = int(input())
 set_m = set(map(int, input().split()))
 
